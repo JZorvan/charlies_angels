@@ -8,7 +8,9 @@ Each article should have a header and at least one section.
 Each article should have a footer that has a link to Amazon (doesn't have to be real) to purchase the product.
 Find some fun imagery for each product.
 ```
-
+```
+Uses JS, HTML & CSS
+```
 
 > Contributors  
 [Gayla Hall](gbea@rocketmail.com)
